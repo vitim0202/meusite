@@ -1,0 +1,18 @@
+ body {
+   background-color: #b5cea4
+ }
+ h1{
+   font-family: inherit; text-align: center; color:#08295e;border: 10px solid #ff7857;
+ }
+p {
+  font-family: monospace; font-size: 30px; text-align: center; border: 10px solid #b88bad
+}
+
+img {
+  border: 10px solid #e47f83;
+  margin-left:30%
+}
+#frase{
+  border:10px
+
+}
